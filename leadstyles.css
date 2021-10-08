@@ -11,6 +11,13 @@
          .row1
         {
         	margin-right: 50%;
+        	border-style: groove;
+        }
+
+        .row2
+        {
+        	margin-left: 50%;
+        	margin-top: -20%;
         }
         
 		</style>
