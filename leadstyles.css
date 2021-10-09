@@ -12,6 +12,9 @@
         {
         	margin-right: 50%;
         	border-style: groove;
+                background-image: url('bf1.jpg');
+                background-size: cover;
+                background-repeat: no-repeat;
         }
 
         .row2
@@ -19,6 +22,9 @@
         	margin-left: 50%;
         	margin-top: -31.30%;
         	border-style: groove;
+                background-image: url('bf1.jpg');
+                background-size: cover;
+                background-repeat: no-repeat;
 
         }
         
